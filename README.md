@@ -1,4 +1,4 @@
-# Predictive Maintenance for Industrial Systems
+# Predictive Maintenance for Sensor-Driven Systems
 ### Machine Failure Classification + Remaining Useful Life Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
